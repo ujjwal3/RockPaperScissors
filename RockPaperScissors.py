@@ -1,5 +1,5 @@
 import random
-import time
+
 
 print("Starting Game",end='')
 
